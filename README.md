@@ -1,4 +1,5 @@
 # holiday_time
+![https://github.com/Pratulpant01/Holiday-Time-Flutter-App/blob/master/holiday%20time%20app.gif]
 
 A new Flutter project.
 
